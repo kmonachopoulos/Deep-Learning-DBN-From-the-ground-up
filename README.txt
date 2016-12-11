@@ -20,3 +20,7 @@ The current Msc. Thesis is dealing with the study and implementation of Deep Bel
 	- greedy layerwise unsupervised pre-training
 	- Linear Mapping
 	- Fine Tuning	
+
+DBN M.Sc Dissertation Thesis :
+
+http://nemertes.lis.upatras.gr/jspui/bitstream/10889/9473/6/Monahopoulos(phys).pdf
