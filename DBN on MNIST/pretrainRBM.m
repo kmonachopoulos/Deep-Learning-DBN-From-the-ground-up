@@ -4,7 +4,7 @@
 %  File             : pretrainRBM.m                                       %
 %  Description      : Pre-training the restricted boltzmann machine (RBM) %
 %                     model by Contrastive Divergence Learning CD-1       %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

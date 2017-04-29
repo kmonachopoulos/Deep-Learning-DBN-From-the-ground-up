@@ -3,7 +3,7 @@
 %                     in the field of computer vision                     %
 %  File             : Train_DBN_MNIST.m                                   %
 %  Description      : Training DBN with MNIST database                    %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

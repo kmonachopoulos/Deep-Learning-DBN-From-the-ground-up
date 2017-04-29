@@ -4,7 +4,7 @@
 %  File          : PerceptronTst.m                                        %
 %  Description   : Test the perceptron with the test data and measure     %
 %                  the out of sample error                                %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function e=PerceptonTst(x,y,w,b)

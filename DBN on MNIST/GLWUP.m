@@ -5,7 +5,7 @@
 %  Description      : Pre-training the Deep Belief Nets (DBN) model by    %
 %                     Contrastive Divergence Learning using Greedy Layer  %                     
 %                     Wise Unsupervised Pre Training                      %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

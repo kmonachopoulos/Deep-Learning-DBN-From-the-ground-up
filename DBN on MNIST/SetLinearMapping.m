@@ -4,7 +4,7 @@
 %  File             : SetLinearMapping.m                                  %
 %  Description      : set the RBM associated to the linear mapping to     %
 %                     the last layer                                      %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

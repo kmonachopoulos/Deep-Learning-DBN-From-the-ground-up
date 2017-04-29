@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : Gibbs_Sampling.m                                       %
 %  Description   : Gibbs Markov Chain Monte Carlo Sampler                 %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 clc;clear all;close all;
 

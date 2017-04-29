@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : MC_Multiple_fnctns.m                                   %
 %  Description   : Central Limit Theorem on random sampling               %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;

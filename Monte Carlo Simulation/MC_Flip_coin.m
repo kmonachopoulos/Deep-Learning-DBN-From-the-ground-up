@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : MC_Flip_coin.m                                         %
 %  Description   : Probability coin flip approximation                    %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;

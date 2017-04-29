@@ -3,7 +3,7 @@
 %                   in the field of computer vision                       %
 %  File             : sigmoid.m                	                          %
 %  Description      : calculate sigmoid function        				  %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

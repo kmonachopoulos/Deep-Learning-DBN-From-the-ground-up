@@ -6,7 +6,7 @@
 %  COMPUTECOST Compute cost for linear regression,                              %
 %  J = COMPUTECOST(X, y, weight1,weight2) computes the cost of using theta as   % 
 %  the parameter for linear regression to fit the data points in X and y        %
-%  Author        : Monahopoulos Konstantinos                                    %
+%  Author        : Monachopoulos Konstantinos                                    %
 %-------------------------------------------------------------------------------%
 
 function J = computeCost(X, y, weight1,weight2)

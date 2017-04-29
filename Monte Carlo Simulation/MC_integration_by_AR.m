@@ -2,7 +2,7 @@
 %  Master thesis : Image Processing using NN                              %
 %  File          : MC_integration_by_AR.m                                 %
 %  Description   : Estimate under the curve area using A/R method         %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;

@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : KohonenSOM.m                                           %
 %  Description   : Self Organizing feature Map - Kohonen                  %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear all;close all;

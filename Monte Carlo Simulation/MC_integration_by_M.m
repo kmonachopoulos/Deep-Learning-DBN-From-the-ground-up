@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : MC_integration_by_M.m                                  %
 %  Description   : Estimate under the curve area using Mean Value method  %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;

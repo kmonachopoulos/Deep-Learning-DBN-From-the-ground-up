@@ -4,7 +4,7 @@
 %  File             : h2v.m                                               %
 %  Description      : Transform from hidden (output) variables to         %
 %                     visible (input) variables                           %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

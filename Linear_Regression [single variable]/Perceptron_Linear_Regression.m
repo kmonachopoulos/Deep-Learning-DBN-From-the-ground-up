@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : Perceptron_Linear_Regression.m                         %
 %  Description   : Linear Perceptron using Batch Gradient Descent         %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
  clc;clear;close all;

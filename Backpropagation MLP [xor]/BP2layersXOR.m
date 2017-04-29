@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : BP2layersXOR.m                                         %
 %  Description   : Backpropagation XOR 2 layer perceptorn                 %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;

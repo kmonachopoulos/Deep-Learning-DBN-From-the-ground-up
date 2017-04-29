@@ -4,7 +4,7 @@
 %  File             : FineTuning.m                                        %
 %  Description      : training the Deep Belief Nets (DBN) model by        %
 %                     back projection algorithm                           %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

@@ -3,7 +3,7 @@
 %                     in the field of computer vision                     %
 %  File             : Train_and_Test.m                                    %
 %  Description      : Get a Dropped DBN 								  %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

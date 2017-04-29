@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : Hopfield_Bin.m                                         %
 %  Description   : Character recognition using hopfield network           %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear all;close all;

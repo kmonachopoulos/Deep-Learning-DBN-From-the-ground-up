@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : MC_Roll_die.m                                          %
 %  Description   : Rolling a Die approximation                            %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;

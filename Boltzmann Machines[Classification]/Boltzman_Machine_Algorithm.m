@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : Boltzman_Machine_Algorithm.m                           %
 %  Description   : BOLTZMANN MACHINE basic algorithm    		          %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 % ========================================================================
 % BOLTZMANN - bias 120 - bipolar values - 120 vissible and 60 hidden units

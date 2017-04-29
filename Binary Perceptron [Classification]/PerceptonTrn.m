@@ -4,7 +4,7 @@
 %  File          : PerceptronTrn.m                                        %
 %  Description   : Train the perceptron finding the optimum weights with  %
 %                  the smallest in sample error or within 1000 iterations %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [OptW,b,iterations,ISE_H,Weight_H]=PerceptonTrn(x,y)

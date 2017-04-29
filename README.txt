@@ -23,4 +23,4 @@ The current Msc. Thesis is dealing with the study and implementation of Deep Bel
 
 DBN M.Sc Dissertation Thesis :
 
-http://nemertes.lis.upatras.gr/jspui/bitstream/10889/9473/6/Monahopoulos(phys).pdf
+http://nemertes.lis.upatras.gr/jspui/bitstream/10889/9473/6/Monachopoulos(phys).pdf

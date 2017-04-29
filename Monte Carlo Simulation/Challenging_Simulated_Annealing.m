@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : Metropolis_Hasting.m                                   %
 %  Description   : Random Walk MCMC - Simulated Annealing Optimization    %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;

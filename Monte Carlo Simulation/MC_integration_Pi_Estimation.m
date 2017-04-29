@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : MC_integration_Pi_Estimation.m                         %
 %  Description   : Estimate unit circle area A=pi*r^2                     %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 clc;clear all;close all;
 

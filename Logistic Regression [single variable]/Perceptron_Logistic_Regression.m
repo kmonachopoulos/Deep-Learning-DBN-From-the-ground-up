@@ -4,7 +4,7 @@
 %  File          : Perceptron_Logistic_Regression.m                       %
 %  Description   : Logistic Perceptron for binary classification          %
 %                  using Batch Gradient Descent                           %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear all;close all;

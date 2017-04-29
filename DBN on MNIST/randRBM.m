@@ -3,7 +3,7 @@
 %                     in the field of computer vision                     %
 %  File             : randRBM.m                                           %
 %  Description      : Get a randomized restricted boltzmann machine model %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

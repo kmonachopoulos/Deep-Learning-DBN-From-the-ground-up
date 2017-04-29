@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : RBM_Algorithm.m                                        %
 %  Description   : RESTRICTED BOLTZMANN MACHINE basic algorithm           %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 % ========================================================================
 % RBM - bias 120 - bipolar values - 120 vissible and 12 hidden units

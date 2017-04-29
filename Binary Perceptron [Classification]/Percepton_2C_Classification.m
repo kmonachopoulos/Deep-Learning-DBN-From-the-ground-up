@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : Perceptron_2C_Classification.m                         %
 %  Description   : Adaline Binary Perceptron for classification           %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear all;close all;

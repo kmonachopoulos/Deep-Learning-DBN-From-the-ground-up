@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : Metropolis_Hasting.m                                   %
 %  Description   : Random Walk Markov Chain Monte Carlo                   %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear all;close all;

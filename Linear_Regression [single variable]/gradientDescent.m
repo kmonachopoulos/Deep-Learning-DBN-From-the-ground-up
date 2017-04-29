@@ -6,7 +6,7 @@
 %  GRADIENTDESCENT Performs gradient descent to learn theta,                    %
 %  theta = GRADIENTDESENT(x, y, weight1,weight2, Learning_step_a, num_iters)    %
 %  updates theta by taking num_iters gradient steps with learning rate alpha    %
-%  Author        : Monahopoulos Konstantinos                                    %
+%  Author        : Monachopoulos Konstantinos                                    %
 %-------------------------------------------------------------------------------%
 
 function [weight1,weight2, J_history] = gradientDescent(x, y,weight1,weight2,Learning_step_a, num_iters)

@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : Simulated_Annealing.m                                  %
 %  Description   : Random Walk MCMC - Simulated Annealing Optimization    %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear;close all;

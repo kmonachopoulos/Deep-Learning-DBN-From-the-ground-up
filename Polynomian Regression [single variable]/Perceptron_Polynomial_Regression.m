@@ -4,7 +4,7 @@
 %  File          : Perceptron_Polynomial_Regression.m                     %
 %  Description   : Linear Perceptron for polynomial Regression            %
 %                  using Batch Gradient Descent                           %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clc;clear all;close all;

@@ -4,7 +4,7 @@
 %  File             : LinearMapping.m                                     %
 %  Description      : Calculate the linear mapping matrix  between the    %
 %                     input data and the output data                      %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

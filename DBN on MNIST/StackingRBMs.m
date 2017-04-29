@@ -3,7 +3,7 @@
 %                     in the field of computer vision                     %
 %  File             : StackingRBMs.m                                      %
 %  Description      : Get a randomized Deep Belief Nets (DBN) model       %
-%  Author           : Monahopoulos Konstantinos                           %
+%  Author           : Monachopoulos Konstantinos                           %
 %  Original Author  : The algorithm is inspired by Masayuki Tanaka        %
 %-------------------------------------------------------------------------%
 

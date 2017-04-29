@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : sigma.m       		                                  %
 %  Description   : Non Linear Sigmoid activation function                 %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [ y ] = sigma( x )

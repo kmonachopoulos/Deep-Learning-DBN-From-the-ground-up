@@ -3,7 +3,7 @@
 %                  in the field of computer vision                        %
 %  File          : RandNoise.m                                            %
 %  Description   : Set noise with a propabilistic NoiseRatio coefficient  %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [NoiseChArray] = RandNoise (CharArray, Length, NoiseRatio)
